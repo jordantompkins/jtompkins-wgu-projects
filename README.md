@@ -6,3 +6,4 @@ D209: Data Mining I
 D212: Data Mining II
 D213: Advanced Data Analysis
 D214: MS Data Analytics Capstone. 
+Along with each python script uploaded, the accompanying paper has been included for each task. These papers include descriptions of the questions explored, how I went about exploring those questions, along with much more. 
